@@ -1,0 +1,6 @@
+{
+    "menu" : [
+        {"item" : "Fettucini Alfredo", "image" : "images/creamy_mushroom_small.jpg" },
+        {"item" : " Squid Scallop", "image" : "images/creamy_mushroom_small.jpg"}
+    ]
+}

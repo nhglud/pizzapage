@@ -1,0 +1,88 @@
+h1 {
+    color: #005582	;
+    background-color: #00c2c7;
+    border-radius: 0.5rem;
+    text-align: center;
+    box-shadow: 0.5rem 0.5rem 1rem rgb(22, 22, 27);
+    border-color: #005582;
+    border-style: solid;
+    font-style: italic;
+    border-width: 0.3rem;
+}
+
+p {
+    color: black;
+}
+
+img {
+    border-radius: 0.5rem;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: #daf8e3;
+    background-image: url(../images/bg2.jpg);
+    margin: auto;
+    width: 60%;  
+}
+
+div {
+    background-color: #00c2c7;
+    margin:  auto;
+    text-align: center;
+    border-radius: 0.5rem;
+    border-color: #005582;
+}
+
+.container {
+    box-shadow: 0.5rem 0.5rem 1rem rgb(22, 22, 27);
+    border-color: #005582;
+    border-style: solid;
+    border-width: 0.3rem;
+
+}
+
+li { 
+    list-style: none;
+    display: inline;
+
+}
+
+.card {
+    text-align: center;
+    border-radius: 0.5rem;
+}
+
+.grid {
+    width: 60%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.special_offers{
+    border-style: dashed;
+    border-color: yellow;
+    background-color: #005582;
+    width: 60%;
+    color: yellow;
+    box-shadow: 0.5rem 0.5rem 1rem rgb(22, 22, 27);
+}
+
+.menus {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.menu {
+    background-color: #0086ad;
+}
+
+/* color palette
+    Hex	RGB
+#daf8e3	(218,248,227)
+#97ebdb	(151,235,219)
+#00c2c7	(0,194,199)
+#0086ad	(0,134,173)
+#005582	(0,85,130)
+*/
