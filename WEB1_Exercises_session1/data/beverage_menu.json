@@ -1,6 +1,0 @@
-{
-    "menu" : [
-        {"item" : "Sparkles", "image" : "images/sparkles_small.jpg" },
-        {"item" : "Soft drinks", "image" : "images/soft_drinks_small.jpg"}
-    ]
-}

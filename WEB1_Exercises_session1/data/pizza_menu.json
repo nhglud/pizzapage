@@ -1,8 +1,0 @@
-{
-    "menu" : [
-        {"item" : "Margarita (Tomato, Cheese)", "image" : "images/margherita_small.jpg" },
-        {"item" : "Hawaii (Tomato, Cheese, Ham, Pineapple)", "image" : "images/hawaiian_small.jpg"},
-        {"item" : "Milano (Tomato, cheese, Ham, Mushrooms)", "image" : "images/margherita_small.jpg"},
-        {"item" : "Pepperoni (Tomato, Cheese, Pepperoni, Pineapple)", "image" : "images/pepperoni_small.jpg"}
-    ]
-}
